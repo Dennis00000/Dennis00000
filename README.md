@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Dennis00000
-- 👀 I’m interested in ...Jobs
-- 🌱 I’m currently learning ...html, PHP, Javascript, 
-- 💞️ I’m looking to collaborate on ...work
+- 👋 Hi, I’m Dennis
+- 👀 I’m interested in Html, PHP, Javascript, and learning more. 
+- 💞️ I’m looking for Jobs.
 - 📫 How to reach me ..dennisopoola@gmail.com 
   
 <!---
