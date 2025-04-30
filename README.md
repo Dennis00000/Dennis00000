@@ -1,4 +1,4 @@
 
      dennisopoola@gmail.com 
 
-     dennisopoola.vercel.app
+     dennisopoola.com
